@@ -44,4 +44,4 @@ kit工具类 用于写http请求，cookie, 弹出层之类的封装，因为日v
 router路由文件
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-微博（http://weibo.com/818qizai898）
+微博(http://weibo.com/818qizai898)
